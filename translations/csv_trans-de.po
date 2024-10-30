@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martijn <martijn@jansen-cws.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../csv-viewer.php:1
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../csv-viewer.php:2
+msgid "Upload"
+msgstr "Aufladen"
+
+#: ../csv-viewer.php:3
+msgid "Remove plugindata"
+msgstr "Lösche Plugin Daten"
+
+#: ../csv-viewer.php:4
+msgid "Upload your CSV-file"
+msgstr "Laden Sie Ihre CSV-Datei"
+
+#: ../csv-viewer.php:6
+msgid "Choose your CSV-file"
+msgstr "Wählen Sie Ihre CSV-Datei"
+
+#: ../csv-viewer.php:7
+msgid "Style"
+msgstr "Stil"
+
+#: ../csv-viewer.php:8
+msgid "Preview"
+msgstr "Beispiel"
+
+#: ../csv-viewer.php:9
+msgid "Remove"
+msgstr "Löschen"
+
+#: ../csv-viewer.php:10
+msgid "Upload images"
+msgstr "Bilder aufladen"
+
+#: ../csv-viewer.php:11
+msgid "Show images"
+msgstr "Bilder zeigen"
+
+#: ../csv-viewer.php:12
+msgid "Change the settings of "
+msgstr "Ändern Sie die Einstellungen von "
+
+#: ../csv-viewer.php:13
+msgid "Id"
+msgstr "Id"
+
+#: ../csv-viewer.php:14
+msgid "Name"
+msgstr "Name"
+
+#: ../csv-viewer.php:15
+msgid "Header included"
+msgstr "Einschließlich Tabellenüberschrift"
+
+#: ../csv-viewer.php:16
+msgid "Yes"
+msgstr "Ja"
+
+#: ../csv-viewer.php:17
+msgid "No"
+msgstr "Nein"
+
+#: ../csv-viewer.php:18
+msgid "Delimitor"
+msgstr "Trennzeichen"
+
+#: ../csv-viewer.php:19
+msgid "Imagecolum"
+msgstr "Bild Colum"
+
+#: ../csv-viewer.php:20
+msgid "Save"
+msgstr "Speichern"
+
+#: ../csv-viewer.php:21
+msgid "The settings are changed of "
+msgstr "Die Einstellungen sind geändert von "
+
+#: ../csv-viewer.php:22
+msgid "Change the style of "
+msgstr "Ändern Sie den Stil von "
+
+#: ../csv-viewer.php:23
+msgid "Table"
+msgstr "Tabelle"
+
+#: ../csv-viewer.php:24
+msgid "Tableheader"
+msgstr "Tabellenkopf"
+
+#: ../csv-viewer.php:25
+msgid "Even rows"
+msgstr "Geraden Zeilen"
+
+#: ../csv-viewer.php:26
+msgid "Odd rows"
+msgstr "Ungeraden Zeilen"
+
+#: ../csv-viewer.php:27
+msgid "Fields"
+msgstr "Fields"
+
+#: ../csv-viewer.php:28
+msgid "Fonttype"
+msgstr "Schriftart"
+
+#: ../csv-viewer.php:29
+msgid "Fontsize"
+msgstr "Schriftgröße"
+
+#: ../csv-viewer.php:30
+msgid "Margin"
+msgstr "Marge"
+
+#: ../csv-viewer.php:31
+msgid "Padding"
+msgstr "Polsterung"
+
+#: ../csv-viewer.php:32
+msgid "Backgroundcolor"
+msgstr "Hintergrundfarbe"
+
+#: ../csv-viewer.php:33
+msgid "Fontcolor"
+msgstr "Schriftfarbe"
+
+#: ../csv-viewer.php:34
+msgid "Are you sure to remove "
+msgstr "Sind Sie sicher, zu entfernen "
+
+#: ../csv-viewer.php:35
+msgid "Upload your images for "
+msgstr "Hochladen Ihrer Bilder für "
+
+#: ../csv-viewer.php:36
+msgid "Images of "
+msgstr "Bilder für "
+
+#: ../csv-viewer.php:37
+msgid "No images found"
+msgstr "Keine Bilder gefunden"
+
+#: ../csv-viewer.php:38
+msgid "Are you sure to remove the plugin? At first you have to remove all the CSV-files and images"
+msgstr "Sind Sie sicher zu entfernen das Plugin? Zunächst müssen Sie alle CSV-Dateien und Bilder entfernen"
+
+#: ../csv-viewer.php:39
+msgid "The plugin has been uninstalled succesfully"
+msgstr "Das Plugin ist erfolgreich deinstalliert"
+
+#: ../csv-viewer.php:40
+msgid "Install plugin"
+msgstr "Plugin installieren"
+
+#: ../csv-viewer.php:41
+msgid "You can not upload this type of file"
+msgstr "Sie können diesen Dateityp nicht hochladen"
+
+#: ../csv-viewer.php:42
+msgid "The maximum allowed filesize is "
+msgstr "Sie können nicht hochgeladen von Dateien dieses Typs"
+
+#: ../csv-viewer.php:43
+msgid "This filename exists already"
+msgstr "Die maximal zulässige Dateigrösse ist "
+
+#: ../csv-viewer.php:44
+msgid "Upload failed for unknown reasons"
+msgstr "Hochladen fehlgeschlagen aus unbekannten Gründen"
+
+#: ../csv-viewer.php:45
+msgid "The file has too many rows"
+msgstr "Die Datei enthält zu viele Zeilen"
+
+#: ../csv-viewer.php:46
+msgid "The data can not be imported in the database"
+msgstr "Die Daten können nicht in die Datenbank importiert werden"
+
+#: ../csv-viewer.php:47
+msgid "The css-file has been changed succesfully"
+msgstr "Die CSS-Datei ist erfolgreich geändert"
+
+#: ../csv-viewer.php:48
+msgid "The css-file can not be changed"
+msgstr "Die CSS-Datei kann nicht geändert werden"
+
+#: ../csv-viewer.php:49
+msgid "The filename is not entered"
+msgstr "Der Dateiname ist nicht angegeben"
+
+#: ../csv-viewer.php:50
+msgid "This filetype is not allowed"
+msgstr "Dieser Dateityp ist nicht erlaubt"
+
+#: ../csv-viewer.php:51
+msgid "Change the filename"
+msgstr "Ändern Sie den Dateinamen"
+
+#: ../csv-viewer.php:52
+msgid "The imagecolum must be numeric"
+msgstr "Das Bild Colum muss numerisch sein"
+
+#: ../csv-viewer.php:53
+msgid "The value of imagecolum is too high"
+msgstr "Der Wert des Bildes Colum ist zu hoch"
+
+#: ../csv-viewer.php:54
+msgid "The settings can not be retrieved"
+msgstr "Die Einstellungen können nicht abgerufen werden"
+
+#: ../csv-viewer.php:55
+msgid "Remove selection"
+msgstr "Auswahl löschen"
+
+#: ../csv-viewer.php:56
+msgid "The upload was succesful"
+msgstr "Der Upload war erfolgreich"
+
+#: ../csv-viewer.php:57
+msgid "The file can not be removed from the database"
+msgstr "Die Datei kann nicht aus der Datenbank entfernt werden"
+
+#: ../csv-viewer.php:58
+msgid "The file can not be removed from the uploadfolder"
+msgstr "Die Datei kann nicht aus dem Upload-Ordner entfernt werden"
+
+#: ../csv-viewer.php:59
+msgid "The css-file can not be removed from the uploadfolder"
+msgstr "Die CSS-Datei kann nicht aus dem Upload-Ordner entfernt werden"
+
+#: ../csv-viewer.php:60
+msgid "The related images can not be removed"
+msgstr "Die damit verbundenen Bilder können nicht entfernt werden"
+

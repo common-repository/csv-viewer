@@ -1,0 +1,235 @@
+#: ../csv-viewer.php:1
+msgid "Settings"
+msgstr ""
+
+#: ../csv-viewer.php:2
+msgid "Upload"
+msgstr ""
+
+#: ../csv-viewer.php:3
+msgid "Remove plugindata"
+msgstr ""
+
+#: ../csv-viewer.php:4
+msgid "Upload your CSV-file"
+msgstr ""
+
+#: ../csv-viewer.php:6
+msgid "Choose your CSV-file"
+msgstr ""
+
+#: ../csv-viewer.php:7
+msgid "Style"
+msgstr ""
+
+#: ../csv-viewer.php:8
+msgid "Preview"
+msgstr ""
+
+#: ../csv-viewer.php:9
+msgid "Remove"
+msgstr ""
+
+#: ../csv-viewer.php:10
+msgid "Upload images"
+msgstr ""
+
+#: ../csv-viewer.php:11
+msgid "Show images"
+msgstr ""
+
+#: ../csv-viewer.php:12
+msgid "Change the settings of "
+msgstr ""
+
+#: ../csv-viewer.php:13
+msgid "Id"
+msgstr ""
+
+#: ../csv-viewer.php:14
+msgid "Name"
+msgstr ""
+
+#: ../csv-viewer.php:15
+msgid "Header included"
+msgstr ""
+
+#: ../csv-viewer.php:16
+msgid "Yes"
+msgstr ""
+
+#: ../csv-viewer.php:17
+msgid "No"
+msgstr ""
+
+#: ../csv-viewer.php:18
+msgid "Delimitor"
+msgstr ""
+
+#: ../csv-viewer.php:19
+msgid "Imagecolum"
+msgstr ""
+
+#: ../csv-viewer.php:20
+msgid "Save"
+msgstr ""
+
+#: ../csv-viewer.php:21
+msgid "The settings are changed of "
+msgstr ""
+
+#: ../csv-viewer.php:22
+msgid "Change the style of "
+msgstr ""
+
+#: ../csv-viewer.php:23
+msgid "Table"
+msgstr ""
+
+#: ../csv-viewer.php:24
+msgid "Tableheader"
+msgstr ""
+
+#: ../csv-viewer.php:25
+msgid "Even rows"
+msgstr ""
+
+#: ../csv-viewer.php:26
+msgid "Odd rows"
+msgstr ""
+
+#: ../csv-viewer.php:27
+msgid "Fields"
+msgstr ""
+
+#: ../csv-viewer.php:28
+msgid "Fonttype"
+msgstr ""
+
+#: ../csv-viewer.php:29
+msgid "Fontsize"
+msgstr ""
+
+#: ../csv-viewer.php:30
+msgid "Margin"
+msgstr ""
+
+#: ../csv-viewer.php:31
+msgid "Padding"
+msgstr ""
+
+#: ../csv-viewer.php:32
+msgid "Backgroundcolor"
+msgstr ""
+
+#: ../csv-viewer.php:33
+msgid "Fontcolor"
+msgstr ""
+
+#: ../csv-viewer.php:34
+msgid "Are you sure to remove "
+msgstr ""
+
+#: ../csv-viewer.php:35
+msgid "Upload your images for "
+msgstr ""
+
+#: ../csv-viewer.php:36
+msgid "Images of "
+msgstr ""
+
+#: ../csv-viewer.php:37
+msgid "No images found"
+msgstr ""
+
+#: ../csv-viewer.php:38
+msgid "Are you sure to remove the plugin? At first you have to remove all the CSV-files and images"
+msgstr ""
+
+#: ../csv-viewer.php:39
+msgid "The plugin has been uninstalled succesfully"
+msgstr ""
+
+#: ../csv-viewer.php:40
+msgid "Install plugin"
+msgstr ""
+
+#: ../csv-viewer.php:41
+msgid "You can not upload this type of file"
+msgstr ""
+
+#: ../csv-viewer.php:42
+msgid "The maximum allowed filesize is "
+msgstr ""
+
+#: ../csv-viewer.php:43
+msgid "This filename exists already"
+msgstr ""
+
+#: ../csv-viewer.php:44
+msgid "Upload failed for unknown reasons"
+msgstr ""
+
+#: ../csv-viewer.php:45
+msgid "The file has too many rows"
+msgstr ""
+
+#: ../csv-viewer.php:46
+msgid "The data can not be imported in the database"
+msgstr ""
+
+#: ../csv-viewer.php:47
+msgid "The css-file has been changed succesfully"
+msgstr ""
+
+#: ../csv-viewer.php:48
+msgid "The css-file can not be changed"
+msgstr ""
+
+#: ../csv-viewer.php:49
+msgid "The filename is not entered"
+msgstr ""
+
+#: ../csv-viewer.php:50
+msgid "This filetype is not allowed"
+msgstr ""
+
+#: ../csv-viewer.php:51
+msgid "Change the filename"
+msgstr ""
+
+#: ../csv-viewer.php:52
+msgid "The imagecolum must be numeric"
+msgstr ""
+
+#: ../csv-viewer.php:53
+msgid "The value of imagecolum is too high"
+msgstr ""
+
+#: ../csv-viewer.php:54
+msgid "The settings can not be retrieved"
+msgstr ""
+
+#: ../csv-viewer.php:55
+msgid "Remove selection"
+msgstr ""
+
+#: ../csv-viewer.php:56
+msgid "The upload was succesful"
+msgstr ""
+
+#: ../csv-viewer.php:57
+msgid "The file can not be removed from the database"
+msgstr ""
+
+#: ../csv-viewer.php:58
+msgid "The file can not be removed from the uploadfolder"
+msgstr ""
+
+#: ../csv-viewer.php:59
+msgid "The css-file can not be removed from the uploadfolder"
+msgstr ""
+
+#: ../csv-viewer.php:60
+msgid "The related images can not be removed"
+msgstr ""

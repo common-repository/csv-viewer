@@ -1,0 +1,235 @@
+#: ../csv-viewer.php:1
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../csv-viewer.php:2
+msgid "Upload"
+msgstr "Uploaden"
+
+#: ../csv-viewer.php:3
+msgid "Remove plugindata"
+msgstr "Verwijder plugingegevens"
+
+#: ../csv-viewer.php:4
+msgid "Upload your CSV-file"
+msgstr "Upload uw CSV-bestand"
+
+#: ../csv-viewer.php:6
+msgid "Choose your CSV-file"
+msgstr "Kies uw CSV-bestand"
+
+#: ../csv-viewer.php:7
+msgid "Style"
+msgstr "Opmaak"
+
+#: ../csv-viewer.php:8
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: ../csv-viewer.php:9
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: ../csv-viewer.php:10
+msgid "Upload images"
+msgstr "Uploaden afbeeldigen"
+
+#: ../csv-viewer.php:11
+msgid "Show images"
+msgstr "Bekijk afbeeldingen"
+
+#: ../csv-viewer.php:12
+msgid "Change the settings of "
+msgstr "Wijzig de instellingen van "
+
+#: ../csv-viewer.php:13
+msgid "Id"
+msgstr "Id"
+
+#: ../csv-viewer.php:14
+msgid "Name"
+msgstr "Naam"
+
+#: ../csv-viewer.php:15
+msgid "Header included"
+msgstr "Inclusief kop"
+
+#: ../csv-viewer.php:16
+msgid "Yes"
+msgstr "Ja"
+
+#: ../csv-viewer.php:17
+msgid "No"
+msgstr "Nee"
+
+#: ../csv-viewer.php:18
+msgid "Delimitor"
+msgstr "Scheidingsteken"
+
+#: ../csv-viewer.php:19
+msgid "Imagecolum"
+msgstr "Afbeeldingskolom"
+
+#: ../csv-viewer.php:20
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../csv-viewer.php:21
+msgid "The settings are changed of "
+msgstr "De instellingen zijn gewijzigd van "
+
+#: ../csv-viewer.php:22
+msgid "Change the style of "
+msgstr "Wijzig de opmaak van "
+
+#: ../csv-viewer.php:23
+msgid "Table"
+msgstr "Tabel"
+
+#: ../csv-viewer.php:24
+msgid "Tableheader"
+msgstr "Tabelkop"
+
+#: ../csv-viewer.php:25
+msgid "Even rows"
+msgstr "Even rijen"
+
+#: ../csv-viewer.php:26
+msgid "Odd rows"
+msgstr "Oneven rijen"
+
+#: ../csv-viewer.php:27
+msgid "Fields"
+msgstr "Velden"
+
+#: ../csv-viewer.php:28
+msgid "Fonttype"
+msgstr "Lettertype"
+
+#: ../csv-viewer.php:29
+msgid "Fontsize"
+msgstr "Lettergrootte"
+
+#: ../csv-viewer.php:30
+msgid "Margin"
+msgstr "Marge"
+
+#: ../csv-viewer.php:31
+msgid "Padding"
+msgstr "Vulling"
+
+#: ../csv-viewer.php:32
+msgid "Backgroundcolor"
+msgstr "Achtergrondkleur"
+
+#: ../csv-viewer.php:33
+msgid "Fontcolor"
+msgstr "Tekstkleur"
+
+#: ../csv-viewer.php:34
+msgid "Are you sure to remove "
+msgstr "Weet u zeker dat u wilt verwijderen het bestand "
+
+#: ../csv-viewer.php:35
+msgid "Upload your images for "
+msgstr "Upload uw afbeeldingen voor "
+
+#: ../csv-viewer.php:36
+msgid "Images of "
+msgstr "Afbeeldingen van "
+
+#: ../csv-viewer.php:37
+msgid "No images found"
+msgstr "Geen afbeeldingen gevonden"
+
+#: ../csv-viewer.php:38
+msgid "Are you sure to remove the plugin? At first you have to remove all the CSV-files and images"
+msgstr "Weet u zeker dat u deze plugin wilt verwijderen? Alvorens moet u alle CSV-bestanden en afbeeldingen hebben verwijderd"
+
+#: ../csv-viewer.php:39
+msgid "The plugin has been uninstalled succesfully"
+msgstr "De plugin is succesvol gedeinstalleerd"
+
+#: ../csv-viewer.php:40
+msgid "Install plugin"
+msgstr "Installeer plugin"
+
+#: ../csv-viewer.php:41
+msgid "You can not upload this type of file"
+msgstr "U kunt dit bestandstype niet uploaden"
+
+#: ../csv-viewer.php:42
+msgid "The maximum allowed filesize is "
+msgstr "De maximaal toegestande bestandsgrootte is "
+
+#: ../csv-viewer.php:43
+msgid "This filename exists already"
+msgstr "Deze bestandsnaam bestaat al"
+
+#: ../csv-viewer.php:44
+msgid "Upload failed for unknown reasons"
+msgstr "Uploaden is mislukt om onbekende redenenen"
+
+#: ../csv-viewer.php:45
+msgid "The file has too many rows"
+msgstr "Dit bestand heeft te veel rijen"
+
+#: ../csv-viewer.php:46
+msgid "The data can not be imported in the database"
+msgstr "De gegevens kunnen niet worden geimporteerd in de database"
+
+#: ../csv-viewer.php:47
+msgid "The css-file has been changed succesfully"
+msgstr "Het css-bestand is succesvol gewijzigd"
+
+#: ../csv-viewer.php:48
+msgid "The css-file can not be changed"
+msgstr "Het css-bestand kan niet worden gewijzigd"
+
+#: ../csv-viewer.php:49
+msgid "The filename is not entered"
+msgstr "Er is geen bestandsnaam ingevuld"
+
+#: ../csv-viewer.php:50
+msgid "This filetype is not allowed"
+msgstr "Dit bestandstype is niet toegestaan"
+
+#: ../csv-viewer.php:51
+msgid "Change the filename"
+msgstr "Verander de bestandsnaam"
+
+#: ../csv-viewer.php:52
+msgid "The imagecolum must be numeric"
+msgstr "De afbeeldingskolom moet numeriek zijn"
+
+#: ../csv-viewer.php:53
+msgid "The value of imagecolum is too high"
+msgstr "De waarde van de afbeeldingskolom is te hoog"
+
+#: ../csv-viewer.php:54
+msgid "The settings can not be retrieved"
+msgstr "De instellingen kunnen niet worden opgehaald"
+
+#: ../csv-viewer.php:55
+msgid "Remove selection"
+msgstr "Verwijder selectie"
+
+#: ../csv-viewer.php:56
+msgid "The upload was succesful"
+msgstr "Het uploaden is gelukt"
+
+#: ../csv-viewer.php:57
+msgid "The file can not be removed from the database"
+msgstr "Het bestand kan niet worden verwijderd uit de database"
+
+#: ../csv-viewer.php:58
+msgid "The file can not be removed from the uploadfolder"
+msgstr "Het bestand kan niet worden verwijderd uit de uploadmap"
+
+#: ../csv-viewer.php:59
+msgid "The css-file can not be removed from the uploadfolder"
+msgstr "Het css-bestand kan niet worden verwijderd uit de uploadmap"
+
+#: ../csv-viewer.php:60
+msgid "The related images can not be removed"
+msgstr "De bijbehorende afbeeldingen kunnen niet worden verwijderd"
